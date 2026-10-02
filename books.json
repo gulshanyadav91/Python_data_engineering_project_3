@@ -1,0 +1,149 @@
+{
+    "books": [
+        {
+            "title": "A Light in the Attic",
+            "price": "Â£51.77",
+            "rating": 3,
+            "actual_price": 51.77,
+            "inr_price": 6582.5555
+        },
+        {
+            "title": "Tipping the Velvet",
+            "price": "Â£53.74",
+            "rating": 1,
+            "actual_price": 53.74,
+            "inr_price": 6833.041
+        },
+        {
+            "title": "Soumission",
+            "price": "Â£50.10",
+            "rating": 1,
+            "actual_price": 50.1,
+            "inr_price": 6370.215
+        },
+        {
+            "title": "Sharp Objects",
+            "price": "Â£47.82",
+            "rating": 4,
+            "actual_price": 47.82,
+            "inr_price": 6080.313
+        },
+        {
+            "title": "Sapiens: A Brief History of Humankind",
+            "price": "Â£54.23",
+            "rating": 5,
+            "actual_price": 54.23,
+            "inr_price": 6895.3445
+        },
+        {
+            "title": "The Requiem Red",
+            "price": "Â£22.65",
+            "rating": 1,
+            "actual_price": 22.65,
+            "inr_price": 2879.9474999999998
+        },
+        {
+            "title": "The Dirty Little Secrets of Getting Your Dream Job",
+            "price": "Â£33.34",
+            "rating": 4,
+            "actual_price": 33.34,
+            "inr_price": 4239.1810000000005
+        },
+        {
+            "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+            "price": "Â£17.93",
+            "rating": 3,
+            "actual_price": 17.93,
+            "inr_price": 2279.7995
+        },
+        {
+            "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+            "price": "Â£22.60",
+            "rating": 4,
+            "actual_price": 22.6,
+            "inr_price": 2873.59
+        },
+        {
+            "title": "The Black Maria",
+            "price": "Â£52.15",
+            "rating": 1,
+            "actual_price": 52.15,
+            "inr_price": 6630.8725
+        },
+        {
+            "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+            "price": "Â£13.99",
+            "rating": 2,
+            "actual_price": 13.99,
+            "inr_price": 1778.8285
+        },
+        {
+            "title": "Shakespeare's Sonnets",
+            "price": "Â£20.66",
+            "rating": 4,
+            "actual_price": 20.66,
+            "inr_price": 2626.9190000000003
+        },
+        {
+            "title": "Set Me Free",
+            "price": "Â£17.46",
+            "rating": 5,
+            "actual_price": 17.46,
+            "inr_price": 2220.039
+        },
+        {
+            "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+            "price": "Â£52.29",
+            "rating": 5,
+            "actual_price": 52.29,
+            "inr_price": 6648.6735
+        },
+        {
+            "title": "Rip it Up and Start Again",
+            "price": "Â£35.02",
+            "rating": 5,
+            "actual_price": 35.02,
+            "inr_price": 4452.793000000001
+        },
+        {
+            "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+            "price": "Â£57.25",
+            "rating": 3,
+            "actual_price": 57.25,
+            "inr_price": 7279.337500000001
+        },
+        {
+            "title": "Olio",
+            "price": "Â£23.88",
+            "rating": 1,
+            "actual_price": 23.88,
+            "inr_price": 3036.342
+        },
+        {
+            "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+            "price": "Â£37.59",
+            "rating": 1,
+            "actual_price": 37.59,
+            "inr_price": 4779.5685
+        },
+        {
+            "title": "Libertarianism for Beginners",
+            "price": "Â£51.33",
+            "rating": 2,
+            "actual_price": 51.33,
+            "inr_price": 6526.6095000000005
+        },
+        {
+            "title": "It's Only the Himalayas",
+            "price": "Â£45.17",
+            "rating": 2,
+            "actual_price": 45.17,
+            "inr_price": 5743.365500000001
+        }
+    ],
+    "statistics": {
+        "max_price": "Â£57.25",
+        "min_price": "Â£13.99",
+        "mean_price": 50.2025
+    }
+}
